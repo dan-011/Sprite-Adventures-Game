@@ -1,0 +1,21 @@
+Asset Credits:
+- RetroForest.mp3: David Fesliyan (fesliyanstudios.com)
+- TheForest.wov (not used in program): Wolfgang (opengameart.org)
+- Enter Game Animation: hoppip (giphy.com)
+- Start Menu Art 2 (not used in program): CuteWallpaper.org
+- Start Menu Art 1: b0necollector (imgur.com)
+- Forest Background: edermunizz (itch.io)
+- Adventure Theme (not used in program): David Renda (fesliyanstudios.com)
+- Hero Sprite: rvros (itch.io)
+- Start Menu Theme: xDeviruchi (itch.io)
+- Waterfall Background (not used in program): WLECOME 2 MY UNIVERSE (tumblr.com)
+- End Credits (not used in program): WallpaperFlare.com
+- Orange Juice Font (not used in program): Brittney Murphy Design (dafont.com)
+- Alagard Font: Hewett Tsoi (dafont.com)
+- Press Start 2P Font: Codeman38 (dafont.com)
+- Dragon Icon: Icongeek26 (flaticon.com)
+- Character Death sound: Sound Effect Database (youtube.com)
+- Game Over song: MB Music (youtibe.com)
+- Game Over Screen: gokaytacal (fiverr.com)
+- Flaming Sword - VSENART (artstation.com)
+- Power Up sound - SoundBrother (youtube.com)
